@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+Schedule_Credentials.json
+token.json
+credentials.json
+gcal_token.json
+scheduling_data.csv
+output.csv
+williamsville_calendar.csv
+schedule.csv
+rochester_calendar.csv
+orchard_park_calendar.csv
+__pycache__/process_csv.cpython-39.pyc
